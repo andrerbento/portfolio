@@ -1,3 +1,3 @@
 # portfolio
 
-Hello, this is where I am going to post my training projects while learnign how to program.
+Hello, this is where I am going to post my training projects while learning how to program.
